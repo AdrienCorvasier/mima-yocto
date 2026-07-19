@@ -33,7 +33,7 @@
         "meta-raspberrypi": {
             "git-remote": {
                 "branch": "wrynose",
-                "rev": "f62c67921474370829d24a4fa01ef88543f3906b ",
+                "rev": "f62c67921474370829d24a4fa01ef88543f3906b",
                 "uri": "https://git.yoctoproject.org/meta-raspberrypi"
             }
         }
